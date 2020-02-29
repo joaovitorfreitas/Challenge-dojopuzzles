@@ -9,3 +9,14 @@ C:\Users\Vitor\Desktop\Celular\obj\Debug\netcoreapp3.1\Celular.AssemblyInfoInput
 C:\Users\Vitor\Desktop\Celular\obj\Debug\netcoreapp3.1\Celular.AssemblyInfo.cs
 C:\Users\Vitor\Desktop\Celular\obj\Debug\netcoreapp3.1\Celular.dll
 C:\Users\Vitor\Desktop\Celular\obj\Debug\netcoreapp3.1\Celular.pdb
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Celular\bin\Debug\netcoreapp3.1\Celular.exe
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Celular\bin\Debug\netcoreapp3.1\Celular.deps.json
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Celular\bin\Debug\netcoreapp3.1\Celular.runtimeconfig.json
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Celular\bin\Debug\netcoreapp3.1\Celular.runtimeconfig.dev.json
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Celular\bin\Debug\netcoreapp3.1\Celular.dll
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Celular\bin\Debug\netcoreapp3.1\Celular.pdb
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Celular\obj\Debug\netcoreapp3.1\Celular.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Celular\obj\Debug\netcoreapp3.1\Celular.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Celular\obj\Debug\netcoreapp3.1\Celular.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Celular\obj\Debug\netcoreapp3.1\Celular.dll
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Celular\obj\Debug\netcoreapp3.1\Celular.pdb

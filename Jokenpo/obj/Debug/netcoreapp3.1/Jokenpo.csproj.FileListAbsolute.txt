@@ -9,3 +9,14 @@ C:\Users\Vitor\Desktop\Jokenpo\obj\Debug\netcoreapp3.1\Jokenpo.AssemblyInfoInput
 C:\Users\Vitor\Desktop\Jokenpo\obj\Debug\netcoreapp3.1\Jokenpo.AssemblyInfo.cs
 C:\Users\Vitor\Desktop\Jokenpo\obj\Debug\netcoreapp3.1\Jokenpo.dll
 C:\Users\Vitor\Desktop\Jokenpo\obj\Debug\netcoreapp3.1\Jokenpo.pdb
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Jokenpo\bin\Debug\netcoreapp3.1\Jokenpo.exe
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Jokenpo\bin\Debug\netcoreapp3.1\Jokenpo.deps.json
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Jokenpo\bin\Debug\netcoreapp3.1\Jokenpo.runtimeconfig.json
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Jokenpo\bin\Debug\netcoreapp3.1\Jokenpo.runtimeconfig.dev.json
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Jokenpo\bin\Debug\netcoreapp3.1\Jokenpo.dll
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Jokenpo\bin\Debug\netcoreapp3.1\Jokenpo.pdb
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Jokenpo\obj\Debug\netcoreapp3.1\Jokenpo.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Jokenpo\obj\Debug\netcoreapp3.1\Jokenpo.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Jokenpo\obj\Debug\netcoreapp3.1\Jokenpo.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Jokenpo\obj\Debug\netcoreapp3.1\Jokenpo.dll
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Jokenpo\obj\Debug\netcoreapp3.1\Jokenpo.pdb

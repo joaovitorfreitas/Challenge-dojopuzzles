@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vitor\\Desktop\\Celular\\Celular.csproj": {}
+    "C:\\Users\\Vitor\\Desktop\\Challenge-dojopuzzles\\Celular\\Celular.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vitor\\Desktop\\Celular\\Celular.csproj": {
+    "C:\\Users\\Vitor\\Desktop\\Challenge-dojopuzzles\\Celular\\Celular.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vitor\\Desktop\\Celular\\Celular.csproj",
+        "projectUniqueName": "C:\\Users\\Vitor\\Desktop\\Challenge-dojopuzzles\\Celular\\Celular.csproj",
         "projectName": "Celular",
-        "projectPath": "C:\\Users\\Vitor\\Desktop\\Celular\\Celular.csproj",
+        "projectPath": "C:\\Users\\Vitor\\Desktop\\Challenge-dojopuzzles\\Celular\\Celular.csproj",
         "packagesPath": "C:\\Users\\Vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vitor\\Desktop\\Celular\\obj\\",
+        "outputPath": "C:\\Users\\Vitor\\Desktop\\Challenge-dojopuzzles\\Celular\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections;
 
-
 namespace Jokenpo {
     class Program {
         static void Main (string[] args) {
@@ -44,7 +43,7 @@ namespace Jokenpo {
                 Console.WriteLine ("\nEmpate");
 
             }
-            static string Sortearjokenpo (ArrayList lista) {
+            string Sortearjokenpo (ArrayList lista) {
                 Random random = new Random ();
                 int opcao = random.Next (0, lista.Count);
                 return lista[opcao].ToString ();

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vitor\\Desktop\\Challenge-dojopuzzles\\Jokenpo\\Jokenpo.csproj",
-      "projectName": "Jokenpo",
-      "projectPath": "C:\\Users\\Vitor\\Desktop\\Challenge-dojopuzzles\\Jokenpo\\Jokenpo.csproj",
+      "projectUniqueName": "C:\\Users\\Vitor\\Desktop\\Challenge-dojopuzzles\\Tenis\\Tenis.csproj",
+      "projectName": "Tenis",
+      "projectPath": "C:\\Users\\Vitor\\Desktop\\Challenge-dojopuzzles\\Tenis\\Tenis.csproj",
       "packagesPath": "C:\\Users\\Vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vitor\\Desktop\\Challenge-dojopuzzles\\Jokenpo\\obj\\",
+      "outputPath": "C:\\Users\\Vitor\\Desktop\\Challenge-dojopuzzles\\Tenis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

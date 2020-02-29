@@ -1,0 +1,11 @@
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Tenis\bin\Debug\netcoreapp3.1\Tenis.exe
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Tenis\bin\Debug\netcoreapp3.1\Tenis.deps.json
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Tenis\bin\Debug\netcoreapp3.1\Tenis.runtimeconfig.json
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Tenis\bin\Debug\netcoreapp3.1\Tenis.runtimeconfig.dev.json
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Tenis\bin\Debug\netcoreapp3.1\Tenis.dll
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Tenis\bin\Debug\netcoreapp3.1\Tenis.pdb
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Tenis\obj\Debug\netcoreapp3.1\Tenis.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Tenis\obj\Debug\netcoreapp3.1\Tenis.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Tenis\obj\Debug\netcoreapp3.1\Tenis.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Tenis\obj\Debug\netcoreapp3.1\Tenis.dll
+C:\Users\Vitor\Desktop\Challenge-dojopuzzles\Tenis\obj\Debug\netcoreapp3.1\Tenis.pdb
